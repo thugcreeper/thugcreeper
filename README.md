@@ -21,10 +21,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thugcreeper&layout=compact&hide_border=true&langs_count=8&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Most used languages" height="180" />
 </p>
 
-## GitHub Gravity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thugcreeper/thugcreeper/output/github-contribution-grid-snake.svg" alt="GitHub Gravity contribution animation" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/thugcreeper/thugcreeper/output/contribution-gravity.svg"
+    alt="Contribution Gravity"
+  />
 </p>
 
 ## My Work
