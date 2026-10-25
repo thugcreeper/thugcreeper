@@ -35,6 +35,7 @@ Projects and web applications I have built:
 | Project | Description |
 | --- | --- |
 | [Flutter Final](https://github.com/thugcreeper/flutterFinal) | A cycling route planning and attraction search app inspired by my interest in exploring different places by bicycle.  |
+| [Taiwan Medical Resource Analysis System](https://thugcreeper.github.io/Advanced_DB_Project/pages/query/index.html) | A Neo4j-powered project that analyzes the relationship between income, population, and medical resources across Taiwan's administrative districts, while providing a search service for medical institutions in each district. |
 | [ARCB30 Calculator](https://thugcreeper.github.io/mywork/arcp%E5%80%BC%E8%A8%88%E7%AE%97%E8%88%87%E7%B6%B2%E9%A0%81/arcb30.html) | A small web project I built in my first year of university in 2023, when I first started learning web development. It was based on a rhythm game I really liked and later became one of the projects that made me want to combine more technologies together. |
 | [English Vocabulary King](https://thugcreeper.github.io/mywork/%E8%8B%B1%E6%96%87%E5%96%AE%E5%AD%97king/vocab_app_byClaude.html) | A simple vocabulary learning tool I created for an English competition at my university. |
 
